@@ -18,6 +18,23 @@ With this script, you can be confident that your sitemaps are always fresh and a
 
 <br/>  
 
+## Expected sitemap structure:
+```
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.example.cz/sitemap_cz.xml</loc>
+    <lastmod>2023-01-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.example.sk/sitemap_sk.xml</loc>
+    <lastmod>2023-01-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.example.fr/sitemap_fr.xml</loc>
+    <lastmod>2023-01-25</lastmod>
+  </sitemap>
+</sitemapindex>
+```
 
 ## Why use it
 <table><tr><td valign="top" width="50%">
