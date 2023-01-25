@@ -26,11 +26,11 @@ With this script, you can be confident that your sitemaps are always fresh and a
     <lastmod>2023-01-25</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://www.example.sk/sitemap_sk.xml</loc>
+    <loc>https://www.example.cz/sitemap_items_cz.xml</loc>
     <lastmod>2023-01-25</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://www.example.fr/sitemap_fr.xml</loc>
+    <loc>https://www.example.cz/sitemap_category_cz.xml</loc>
     <lastmod>2023-01-25</lastmod>
   </sitemap>
 </sitemapindex>
