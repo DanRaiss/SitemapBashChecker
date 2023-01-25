@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Declare an array of sitemap URLs
-sitemaps=("https://www.limetka.sk/exml/sitemap_sk_base.xml" "https://www.limetka.sk/exml/sitemap_sk_products.xml" "https://www.limetka.sk/exml/sitemap_sk_filters_1.xml")
+sitemaps=("https://www.example.cz/sitemap_cz.xml" "https://www.example.sk/sitemap_sk.xml" "https://www.example.fr/sitemap_fr.xml")
 
 # Slack webhook URL
 slack_webhook_url="https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
