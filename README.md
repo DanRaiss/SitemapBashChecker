@@ -19,7 +19,7 @@ With this script, you can be confident that your sitemaps are always fresh and a
 <br/>  
 
 
-## Rapidfire  
+## Why use it
 <table><tr><td valign="top" width="50%">
 
 - The script ensures that your website sitemaps are always up-to-date ✅  
