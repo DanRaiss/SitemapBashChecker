@@ -11,9 +11,9 @@
 ### SitemapBashChecker  
 Is designed to monitor the freshness of your website sitemaps. It checks if the lastmod time of the sitemap is up-to-date. If it is not, the script sends a notification to your Slack channel via webhook, so you can take appropriate action. 
 
-The script is easy to use, simply provide an array of sitemap URLs and your Slack webhook URL. It's a great tool for website administrators to ensure that their sitemaps are always up-to-date, helping to improve their website's visibility and search engine rankings. This script can be scheduled to run at regular intervals, so you don't have to manually check for updates. 
+The script is easy to use, simply provide an array of sitemap URLs and your Slack, Discord webhook URLs. Also there is an option for standard email notify. It's a great tool for website administrators to ensure that their sitemaps are always up-to-date, helping to improve their website's visibility and search engine rankings. This script can be scheduled to run at regular intervals, so you don't have to manually check for updates. 
 
-With this script, you can be confident that your sitemaps are always fresh and accurate, saving you time and effort.  
+With this script, you can be confident that your sitemaps are always fresh and accurate, saving you time and effort.
   
 
 <br/>  
